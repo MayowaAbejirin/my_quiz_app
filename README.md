@@ -1,4 +1,4 @@
-# The_Nigerian_Quiz_App
+# Quiz_App
 
 A simple quiz application built with Flutter.
 
